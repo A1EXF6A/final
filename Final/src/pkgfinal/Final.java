@@ -17,6 +17,7 @@ public class Final {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hola");
         Scanner tec = new Scanner(System.in);
         int opc;
             do {
